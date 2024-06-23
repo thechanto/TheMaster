@@ -7,6 +7,7 @@ TagManager:
   - Ground
   - Wall
   - Movable
+  - Enemy
   layers:
   - Default
   - TransparentFX
